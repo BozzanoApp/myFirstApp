@@ -1,0 +1,8 @@
+<?php 
+
+  $var = "Ahmad Ridha";
+  
+  echo $var;
+
+
+?>
